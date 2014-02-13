@@ -1,4 +1,4 @@
-kohana-bundle-hello-world
+Hello, World!
 =========================
 
 Example of bundle
